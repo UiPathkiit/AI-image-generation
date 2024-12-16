@@ -8,7 +8,6 @@ const HomePage = () => {
       <p className='text-white font-bold text-center text-4xl'>
         This is a AI Image Generation website Home page
         <SampleComponent/>
-
       </p>
     </div>
   );
