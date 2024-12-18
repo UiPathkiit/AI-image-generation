@@ -4,7 +4,13 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        customBg: '#B1817FC7',
+         // Add your custom rgba color
+         // Add your custom rgba color
+      },
+    },
   },
   plugins: [],
 }

@@ -1,11 +1,12 @@
 import './App.css';
 import HomePage from './pages/HomePage';
-
+import Imagegenerationpage from './pages/Imagegenerationpage'
 function App() {
   return (
     <div>
-      <HomePage/>
-
+      {/* <HomePage/> */}
+     
+      <Imagegenerationpage/>
     </div>
   );
 }
