@@ -78,8 +78,7 @@ Welcome to the AI SaaS application repository! This project is a full-stack AI-p
 - **Git/GitHub**: Version control.
 
 ### Deployment Platforms
-- **Vercel**: Frontend deployment.
-- **Heroku**: Backend deployment.
+- **OnRender.com**: Frontend & deployment.
 
 ## How to Run the Project
 1. **Clone the Repository**:
